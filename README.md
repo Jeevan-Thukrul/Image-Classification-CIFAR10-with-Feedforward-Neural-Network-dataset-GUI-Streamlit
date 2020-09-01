@@ -5,13 +5,13 @@
 
 
 ## Training and Testing Accurcy
-- Train accuracy: 0.8148
-- Test accuracy: 0.6892 </br>
+- Train accuracy: 0.5414
+- Test accuracy: 0.5042 </br>
 ![alt text](https://github.com/Jeevan-Thukrul/Image-Classification-CIFAR10-with-Feedforward-Neural-Network-dataset-GUI-Streamlit/blob/master/Output/Accuracy.png)
 
 ## Training and Testing Loss
-- Train loss: 0.5378
-- Test loss: 0.7659 </br>
+- Train loss: 1.2841
+- Test loss: 1.3964 </br>
 ![alt text](https://github.com/Jeevan-Thukrul/Image-Classification-CIFAR10-with-Feedforward-Neural-Network-dataset-GUI-Streamlit/blob/master/Output/loss.png)
 
 ## Project overview
